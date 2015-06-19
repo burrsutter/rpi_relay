@@ -1,7 +1,7 @@
 var Gpio = require('onoff').Gpio;
-var candy_pin = new Gpio(21,'out');
+var led_pin = new Gpio(16,'out');
 
-candy_pin.writeSync(0);
+led_pin.writeSync(0);
 
 
 
