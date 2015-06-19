@@ -9,4 +9,9 @@ ground (black)
 
 the power wire to the lamp has its "narrow" prong (hot), split and connected through the relay
 
+npm install onoff
+
+sudo nano on_lamp.js
+sudo nano off_lamp.js
+
 
